@@ -1,0 +1,21 @@
+# Visual Studio temporary files, build results, and caches
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.db
+*.ipch
+*.sln.docstates
+
+# Build outputs
+*.log
+*.tlog
+*.ilk
+*.obj
+*.pdb
+*.idb
+*.exe
+*.dll
